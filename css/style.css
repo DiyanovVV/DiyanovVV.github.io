@@ -118,7 +118,6 @@ nav a:hover {
 
 /*Вторая кнопка "Начало учебного года"*/
 .backStart {
-	background-color: #ffffff;
 	border-radius: 10px;
 	width: 640px;
 	left: 0%;
@@ -131,10 +130,10 @@ nav a:hover {
 	box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
 	background-position: center center;
 	display: table-cell;
-
+	background-color: #d77d31;
 	border: 0.5px solid white;
 	border-radius: 5px;
-	border-color: #00CED1;
+	border-color: #d77d31;
 	border-style: solid;
 }
 
@@ -154,7 +153,7 @@ nav a:hover {
 
 /*Вторая кнопка "Начало учебного года"*/
 .headStart {
-	color: #d77d31;
+	color: #ffffff;
 	font-family: 'Roboto',Arial,sans-serif;
 	line-height: 1.4;
 	font-weight: 700;
@@ -170,14 +169,14 @@ nav a:hover {
 /*Вторая кнопка "Начало учебного года"*/
 .buttonStart {
 	text-decoration: none;
-	color: #00CED1;
+	color: #ffffff;
 	font-family: 'Arial',Arial,sans-serif;
 	line-height: 1.55;
 	font-weight: 600;
 	border: 0.5px solid white;
 	border-radius: 5px;
 	background-position: center center;
-	border-color: #00CED1;
+	border-color: #ffffff;
 	border-style: solid;
 	font-size: 12px;
 	cursor: pointer;
@@ -189,7 +188,7 @@ nav a:hover {
 	visibility: visible;
 	text-align: center;
 	z-index: 20;
-	background-color: #ffffff;
+	background-color: #d77d31;
 	left: 485px;
 	top: 25px;
 	height: 40px;
