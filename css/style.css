@@ -62,11 +62,11 @@ nav a:hover {
 }
 
 .menu {
-	display: flex;
-	margin: 10px auto;
-	justify-content: space-between;
-	align-items: center;
-}
+	 display: flex;
+	 margin: 10px auto;
+	 justify-content: space-between;
+	 align-items: center;
+ }
 
 .navigator {
 	display: flex;
@@ -94,6 +94,7 @@ nav a:hover {
 }
 
 
+
 .backNew {
 	background-color: #ffffff;
 	border-radius: 10px;
@@ -115,6 +116,28 @@ nav a:hover {
 	border-style: solid;
 }
 
+/*Вторая кнопка "Начало учебного года"*/
+.backStart {
+	background-color: #ffffff;
+	border-radius: 10px;
+	width: 640px;
+	left: 0%;
+	top: 0px;
+	height: 90px;
+	position: relative;
+	-webkit-font-smoothing: antialiased;
+	visibility: visible;
+	box-sizing: content-box;
+	box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+	background-position: center center;
+	display: table-cell;
+
+	border: 0.5px solid white;
+	border-radius: 5px;
+	border-color: #00CED1;
+	border-style: solid;
+}
+
 .headFirst {
 	color: #d77d31;
 	font-family: 'Roboto',Arial,sans-serif;
@@ -128,6 +151,51 @@ nav a:hover {
 	left: 20px;
 	top: 20px;
 }
+
+/*Вторая кнопка "Начало учебного года"*/
+.headStart {
+	color: #00CED1;
+	font-family: 'Roboto',Arial,sans-serif;
+	line-height: 1.4;
+	font-weight: 700;
+	background-position: center center;
+	border-color: transparent;
+	border-style: solid;
+	font-size: 27px;
+	position: relative;
+	left: 20px;
+	top: 20px;
+}
+
+/*Вторая кнопка "Начало учебного года"*/
+.buttonStart {
+	text-decoration: none;
+	color: #00CED1;
+	font-family: 'Arial',Arial,sans-serif;
+	line-height: 1.55;
+	font-weight: 600;
+	border: 0.5px solid white;
+	border-radius: 5px;
+	background-position: center center;
+	border-color: #00CED1;
+	border-style: solid;
+	font-size: 12px;
+	cursor: pointer;
+	outline: none;
+	-webkit-font-smoothing: antialiased;
+	position: absolute;
+	box-sizing: border-box;
+	display: table;
+	visibility: visible;
+	text-align: center;
+	z-index: 20;
+	background-color: #ffffff;
+	left: 485px;
+	top: 25px;
+	height: 40px;
+	width: 125px;
+}
+
 .headSecond {
 	color: #d77d31;
 	font-family: 'Roboto',Arial,sans-serif;
