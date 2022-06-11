@@ -241,7 +241,8 @@ nav a:hover {
 	box-sizing: content-box;
 	background-position: center center;
 	border-color: transparent;
-	border-style: solid;	
+	border-style: solid;
+	display: table-cell;
 }
 
 .backForNewTwo {
@@ -257,6 +258,7 @@ nav a:hover {
 	background-position: center center;
 	border-color: transparent;
 	border-style: solid;
+	display: table-cell;
 }
 
 .head {
