@@ -61,6 +61,14 @@ nav a:hover {
 	border: none;
 }
 
+.ava {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: center;
+  cursor: pointer;
+}
+
 .menu {
 	 display: flex;
 	 margin: 10px auto;
