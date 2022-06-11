@@ -236,6 +236,21 @@ nav a:hover {
 	border-style: solid;	
 }
 
+.backForNewTwo {
+	background-color: #00FFFF;
+	width: 640px;
+	left: 0%;
+	top: 0px;
+	height: 1000px;
+	position: relative;	
+	-webkit-font-smoothing: antialiased;
+	visibility: visible;
+	box-sizing: content-box;
+	background-position: center center;
+	border-color: transparent;
+	border-style: solid;
+}
+
 .head {
 	color: #FF69B4;
 	font-family: 'Roboto',Arial,sans-serif;
