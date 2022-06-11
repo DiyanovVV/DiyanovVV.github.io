@@ -240,7 +240,7 @@ nav a:hover {
 	background-color: #00FFFF;
 	width: 640px;
 	left: 0%;
-	top: 0px;
+	top: 1000px;
 	height: 1000px;
 	position: relative;	
 	-webkit-font-smoothing: antialiased;
