@@ -221,8 +221,23 @@ nav a:hover {
 	top: 20px;
 }
 
+.backForNew {
+	background-color: #FF69B4;
+	width: 640px;
+	left: 0%;
+	top: 0px;
+	height: 1000px;
+	position: relative;	
+	-webkit-font-smoothing: antialiased;
+	visibility: visible;
+	box-sizing: content-box;
+	background-position: center center;
+	border-color: transparent;
+	border-style: solid;	
+}
+
 .head {
-	color: #ffffff;
+	color: #FF69B4;
 	font-family: 'Roboto',Arial,sans-serif;
 	line-height: 1.4;
 	font-weight: 700;
